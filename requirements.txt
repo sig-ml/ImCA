@@ -1,0 +1,2 @@
+numpy==1.11.1
+git+https://github.com/sig-ml/genetic.git@master
