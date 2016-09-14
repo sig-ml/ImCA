@@ -29,8 +29,12 @@ class Cellular:
         return c1, c2
 
     def fitness(self):
-        #TODO: figure a way to incorporate the DB into this
+        # TODO: figure a way to incorporate the image DB into this
         return 1
+
+    def run(self, iterations):
+        # TODO:
+        pass
 
 
 if __name__ == '__main__':
